@@ -54,4 +54,5 @@ class Fox {
             // Handle exception
         }
     }
+
 }
